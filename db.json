@@ -1,0 +1,81 @@
+{
+  "warehouse": [
+    {
+      "id": 1,
+      "warehouse": "Dukat",
+      "city": "Zagreb"
+    },
+    {
+      "id": 2,
+      "warehouse": "Podravka",
+      "city": "Osijek"
+    },
+    {
+      "id": 3,
+      "warehouse": "Vindija",
+      "city": "Varaždin"
+    },
+    {
+      "id": 4,
+      "warehouse": "Kraš",
+      "city": "Zagreb"
+    },
+    {
+      "id": 5,
+      "warehouse": "Franck",
+      "city": "Koprivnica"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "warehouse": "Dukat",
+      "firstName": "Antonio",
+      "lastName": "Samardzic"
+    },
+    {
+      "id": 2,
+      "warehouse": "Podravka",
+      "firstName": "Bruno",
+      "lastName": "Krajinovic"
+    },
+    {
+      "id": 3,
+      "warehouse": "Vindija",
+      "firstName": "Josip",
+      "lastName": "Kvaternik"
+    },
+    {
+      "id": 4,
+      "warehouse": "Kraš",
+      "firstName": "Marko",
+      "lastName": "Maric"
+    }
+  ],
+  "goods": [
+    {
+      "id": 1,
+      "warehouse": "Dukat",
+      "name": "Milk",
+      "quantity": "1000L"
+    },
+    {
+      "id": 2,
+      "warehouse": "Podravka",
+      "name": "Cookies",
+      "quantity": "5000Kg"
+    },
+    {
+      "id": 3,
+      "warehouse": "Vindija",
+      "name": "Protein Milk Shake",
+      "quantity": "6528L"
+    },
+    {
+      "id": 4,
+      "warehouse": "Kraš",
+      "name": "Chocolate",
+      "quantity": "5484Kg"
+    }
+  ]
+}
