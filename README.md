@@ -1,4 +1,4 @@
-Table app with HTTP requests using fake REST API 
+Responsive table app with HTTP requests using fake REST API 
 
 In cmd run : 'json-server --watch db.json --port 3004' to start JSON server to display data
 
